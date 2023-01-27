@@ -54,3 +54,9 @@ py manage.py migrate
 ```bash
 py manage.py runserver
 ```
+
+### To run tests
+
+```bash
+py manage.py test tests
+```
