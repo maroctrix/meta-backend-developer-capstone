@@ -9,4 +9,4 @@ class MenuItemTest(TestCase):
             price=15.99,
             inventory=4
         )
-        self.assertEqual(item.__str__(), "Tanjia : 15.99")
+        self.assertEqual(str(item), "Tanjia : 15.99")
