@@ -18,7 +18,7 @@ Building RESTful APIs using [Django Rest Framework](https://www.django-rest-fram
 * Open `settings.py`. Does the `INSTALLED_APPS` list contain the name of the app `restaurant`, `rest_framework`, and `djoser`? :white_check_mark:
 * In `settings.py` does the `TEMPLATES` section contain the `DIRS` attribute set to templates? :white_check_mark:
 * Does the capstone project contain an `index.html` file, it's associated view and has the URL routing been setup successfully? :white_check_mark:
-* Does the capstone project contain a MySQL database and is it setup correctly inside the DATABASES section in the settings.py file? :white_check_mark:
+* Does the capstone project contain a `MySQL` database and is it setup correctly inside the `DATABASES` section in the `settings.py` file? :white_check_mark:
 * Open the file `models.py`. Does this file contain the code for the models `Menu` and `Booking`? :white_check_mark:
 * Have the models been registered in the file `admin.py`? :white_check_mark:
 * Open `serializers.py`. Does it contain the code for Serializer classes for the `Menu` and `Booking` models? :white_check_mark:
