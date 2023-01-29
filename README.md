@@ -5,7 +5,7 @@
 ![Django](https://img.shields.io/badge/Django-092e20?style=flat&logo=django&logoColor=white)
 ![Grading criteria](https://img.shields.io/badge/Grading%20criteria-Passing-brightgreen)
 
-Building RESTful APIs using [Django Rest Framework](https://www.django-rest-framework.org/) connected to a [MySQL](https://dev.mysql.com/downloads/) as part of the [Meta Back-End Developer Certificate](https://www.coursera.org/professional-certificates/meta-back-end-developer) teached by [Meta](https://www.facebook.com/business/learn/back-end-back-end-developer-certificate-coursera).
+Building RESTful APIs using [Django Rest Framework](https://www.django-rest-framework.org/) connected to a [MySQL](https://dev.mysql.com/downloads/) database as part of the [Meta Back-End Developer Certificate](https://www.coursera.org/professional-certificates/meta-back-end-developer) teached by [Meta](https://www.facebook.com/business/learn/back-end-back-end-developer-certificate-coursera).
 
 <p align="center">
     <a href="https://www.credly.com/org/facebook-blueprint/badge/meta-back-end-developer-certificate">
